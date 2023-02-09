@@ -1,0 +1,9 @@
+.rotation {
+  animation: squar-pic 20s linear infinite;
+}
+
+@keyframes squar-pic {
+  100% {
+    transform: rotate(360deg);
+  }
+}
