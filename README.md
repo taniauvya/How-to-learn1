@@ -13,7 +13,7 @@
 
 #### _Как запускать:_
 
-- [Нажать на ссылку](https://github.com/taniauvya/how-to-learn)
+- [Нажать на ссылку](https://github.com/taniauvya/how-to-learn1)
 
 #### _Улучшения в будущем:_
 
